@@ -1,0 +1,59 @@
+www.freebase.com/m/06kl78	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/0h7h6	what city was crash filmed in
+www.freebase.com/m/0xnc3	www.freebase.com/people/person/religion	www.freebase.com/m/01spm	what is charles, prince of wales's religion
+www.freebase.com/m/07hwkr	www.freebase.com/people/ethnicity/people	www.freebase.com/m/0c7xjb	Who is a female white american?
+www.freebase.com/m/01gvxv	www.freebase.com/people/person/languages	www.freebase.com/m/02h40lc	What language does gena rowlands speak?
+www.freebase.com/m/01srq2	www.freebase.com/film/film/music	www.freebase.com/m/01tc9r	which musician wrote in naked lunch
+www.freebase.com/m/03x3qv	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	Which country was joshua malina born in
+www.freebase.com/m/06fpsx	www.freebase.com/film/film/language	www.freebase.com/m/06nm1	what is a language featured on the 40-year-old virgin
+www.freebase.com/m/025v3k	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01l849	what is university of minnesota's school color?
+www.freebase.com/m/09lxv9	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is spoken in mars attacks!
+www.freebase.com/m/06bc59	www.freebase.com/film/film/genre	www.freebase.com/m/03npn	what genre of film is hannibal rising
+www.freebase.com/m/014bpd	www.freebase.com/film/film/genre	www.freebase.com/m/06n90	what type of genre is heavy metal?
+www.freebase.com/m/022p06	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/0g1rw	which organizations did samuel goldwyn founded?
+www.freebase.com/m/01dtcb	www.freebase.com/music/record_label/artist	www.freebase.com/m/02ndj5	what artists are under universal music group?
+www.freebase.com/m/0190y4	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/06cqb	what genre did dub come out of
+www.freebase.com/m/07tw_b	www.freebase.com/film/film/production_companies	www.freebase.com/m/054lpb6	what production company is from the film the producers
+www.freebase.com/m/02yr1q	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01rs41	what type of institution is drake university
+www.freebase.com/m/06by7	www.freebase.com/music/genre/artists	www.freebase.com/m/01vn0t_	what artist makes rock music?
+www.freebase.com/m/01lcxbb	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0281s1	Where did freddie hubbard die
+www.freebase.com/m/01hkg9	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what nationality is arthur q. bryan?
+www.freebase.com/m/091xrc	www.freebase.com/film/film/language	www.freebase.com/m/064_8sq	what language was tmnt (film) done in
+www.freebase.com/m/02238b	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/0sx5w	who was jimmy kimmel influenced by
+www.freebase.com/m/0m32h	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/02l0xc	which actor died from prostate cancer?
+www.freebase.com/m/02qr69m	www.freebase.com/film/film/production_companies	www.freebase.com/m/04rtpt	What company produced the film changeling?
+www.freebase.com/m/02t8gf	www.freebase.com/music/genre/artists	www.freebase.com/m/01w8n89	what is a industrial metal band
+www.freebase.com/m/02__7n	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	What is actress christine baranski's country of nationality?
+www.freebase.com/m/03vtrv	www.freebase.com/music/record_label/artist	www.freebase.com/m/017mbb	What is the name of an artist associated with the record label vertigo records?
+www.freebase.com/m/0cm89v	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0r00l	Which city was sean mcnamara born
+www.freebase.com/m/05ys0xf	www.freebase.com/time/event/instance_of_recurring_event	www.freebase.com/m/015hr	what is the 1989 berlin international film festival
+www.freebase.com/m/01k2xy	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/02vx4	what sport does the san jose earthquakes play
+www.freebase.com/m/0gm2_0	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	Which language is the lookout in
+www.freebase.com/m/037w7r	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	what passport does geraldine chaplin hold
+www.freebase.com/m/04j0s3	www.freebase.com/people/person/gender	www.freebase.com/m/02zsn	What is ekta kapoor's gender
+www.freebase.com/m/078mm1	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is spoken in the cassandra crossing
+www.freebase.com/m/09fn1w	www.freebase.com/film/film/language	www.freebase.com/m/02hxcvy	whats the language spoken in jodhaa akbar
+www.freebase.com/m/080ntlp	www.freebase.com/people/profession/specialization_of	www.freebase.com/m/035y33	What job is diplomat a specialization of
+www.freebase.com/m/09gdm7q	www.freebase.com/film/film/language	www.freebase.com/m/02hxc3j	which language is spoken in the whistleblower
+www.freebase.com/m/04tqtl	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/06q8hf	who produced sin city?
+www.freebase.com/m/03rjj	www.freebase.com/location/location/contains	www.freebase.com/m/057bxr	what universities are in italy?
+www.freebase.com/m/06ncr	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/095x_	which musician plays the saxophone
+www.freebase.com/m/0dyb1	www.freebase.com/film/film/genre	www.freebase.com/m/05p553	What type of movie is toy story
+www.freebase.com/m/07yklv	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/01243b	what music genre did post-punk revival influence
+www.freebase.com/m/0pd57	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/01_d4	where was the main location of filming for the movie airport
+www.freebase.com/m/05b4w	www.freebase.com/location/location/time_zones	www.freebase.com/m/02llzg	what time zone is norway in
+www.freebase.com/m/0kvb6p	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country created the film  the robe (film)
+www.freebase.com/m/0204jh	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/0257h9	is the bronx high school of science a private or magnet school
+www.freebase.com/m/032sl_	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/094jv	Which american city was featured in the film enemy of the state
+www.freebase.com/m/0msck	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what time zone is cameron county located in?
+www.freebase.com/m/0342h	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01whg97	who plays the guitar
+www.freebase.com/m/04dsnp	www.freebase.com/film/film/genre	www.freebase.com/m/07s9rl0	what kind of movie is sicko?
+www.freebase.com/m/03rjj	www.freebase.com/location/location/contains	www.freebase.com/m/079yb	what city in italy is known as a World Heritage Site
+www.freebase.com/m/016ks5	www.freebase.com/film/film/genre	www.freebase.com/m/02xh1	What is the genre that mona lisa (film) is part of
+www.freebase.com/m/02pl5bx	www.freebase.com/music/genre/artists	www.freebase.com/m/016fmf	what artists play reggae fusion music?
+www.freebase.com/m/08304	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	What is the gender of william morris
+www.freebase.com/m/07yk1xz	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what is the language in the film invictus
+www.freebase.com/m/0dw6b	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/042q3	who played a major influence on aleksandr pushkin
+www.freebase.com/m/02v5_g	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what language is scream 2 in?
+www.freebase.com/m/03xnwz	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/05r6t	what types of music is indie pop from
+www.freebase.com/m/0209xj	www.freebase.com/film/film/country	www.freebase.com/m/03_3d	what country did lost in translation take place in
+www.freebase.com/m/05bt6j	www.freebase.com/music/genre/artists	www.freebase.com/m/01vsl3_	Who is a pop rock artist?
