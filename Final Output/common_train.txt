@@ -1,0 +1,749 @@
+www.freebase.com/m/07024	www.freebase.com/film/film/production_companies	www.freebase.com/m/01gb54	which production company produced the film saving private ryan?
+www.freebase.com/m/03s5lz	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	which country filmed analyze this
+www.freebase.com/m/03pc89	www.freebase.com/film/film/music	www.freebase.com/m/037lyl	who is credited for the music in mash (film)
+www.freebase.com/m/0298n7	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/01n7q	where was seabiscuit (film) filmed?
+www.freebase.com/m/06q5t7	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/05ty4m	which actor influenced jason segel
+www.freebase.com/m/0bcndz	www.freebase.com/film/film/film_art_direction_by	www.freebase.com/m/0fqjks	who was the film art director of the king and i?
+www.freebase.com/m/0dx97	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/04jpl	where did christopher wren  die
+www.freebase.com/m/01s7w3	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	where is the film twister from?
+www.freebase.com/m/017_qw	www.freebase.com/music/genre/artists	www.freebase.com/m/0146pg	Name someone who composed a film score
+www.freebase.com/m/05yzt_	www.freebase.com/people/person/profession	www.freebase.com/m/02hrh1q	what is carmine coppola's profession?
+www.freebase.com/m/059_w	www.freebase.com/people/ethnicity/people	www.freebase.com/m/0x3n	which singer has native americans in the united states ethnicity
+www.freebase.com/m/06nns1	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01cx_	where was  lisa edelstein born
+www.freebase.com/m/02qjj7	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	What country does dean clain claim nationality from?
+www.freebase.com/m/02yv6b	www.freebase.com/music/genre/artists	www.freebase.com/m/01k47c	what is the name of a blues-rock artist
+www.freebase.com/m/07f_t4	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/052p7	what located was the film 300 shot
+www.freebase.com/m/01t8sr	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01_9fk	what kind of school is tennessee state university
+www.freebase.com/m/01ydzx	www.freebase.com/music/artist/origin	www.freebase.com/m/01vx3m	what is the origin of the artist paul weller
+www.freebase.com/m/012s1d	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	in what north american country was spider-man (film) filmed
+www.freebase.com/m/01vtqml	www.freebase.com/music/artist/origin	www.freebase.com/m/0k33p	where does ozzy osbourne come from
+www.freebase.com/m/014z8v	www.freebase.com/people/person/profession	www.freebase.com/m/03gjzk	What did george carlin work as
+www.freebase.com/m/0c_tl	www.freebase.com/user/jg/default_domain/olympic_games/sports	www.freebase.com/m/06z6r	what is an activity performed in the 1896 summer olympics
+www.freebase.com/m/0f4_2k	www.freebase.com/film/film/language	www.freebase.com/m/04h9h	what language was used in the movie  angels and demons
+www.freebase.com/m/05k7sb	www.freebase.com/location/location/contains	www.freebase.com/m/0v0d9	what town can be found in massachusetts
+www.freebase.com/m/021j38	www.freebase.com/location/administrative_division/country	www.freebase.com/m/0162b	what administrative division is chittagong in
+www.freebase.com/m/01243b	www.freebase.com/music/genre/artists	www.freebase.com/m/01w524f	what is an artist of indie rock?
+www.freebase.com/m/01qhm_	www.freebase.com/people/ethnicity/people	www.freebase.com/m/0jcx	Name a person with the ethnicity of German American.
+www.freebase.com/m/04dbw3	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/0t_2	what language do people in cuban american speak
+www.freebase.com/m/059g4	www.freebase.com/base/locations/continents/countries_within	www.freebase.com/m/06s0l	Name a county in North America.
+www.freebase.com/m/034qmv	www.freebase.com/film/film/story_by	www.freebase.com/m/04093	who wrote around the world in 80 days
+www.freebase.com/m/03tn80	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	What country created the film congo?
+www.freebase.com/m/07c6l	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01k_0fp	Who is known as a trombone instrumentalist
+www.freebase.com/m/0678gl	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is wally wingert's country of nationality?
+www.freebase.com/m/032zq6	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what dreams may come was filmed in which country?
+www.freebase.com/m/0bxxzb	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country was i spy made in
+www.freebase.com/m/05f7w84	www.freebase.com/tv/tv_program/languages	www.freebase.com/m/06nm1	kid vs. kat is a tv program in what language
+www.freebase.com/m/06bnz	www.freebase.com/location/location/contains	www.freebase.com/m/0hkpn	what is one of the largest city in Russia?
+www.freebase.com/m/09ntbc	www.freebase.com/people/person/nationality	www.freebase.com/m/0ctw_b	leo bertos was born in what country?
+www.freebase.com/m/02wb6yq	www.freebase.com/music/artist/origin	www.freebase.com/m/0f2rq	where did demi lovato originate from
+www.freebase.com/m/01lyv	www.freebase.com/music/genre/artists	www.freebase.com/m/0c7xjb	what artists perform country music
+www.freebase.com/m/02ntb8	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/0mdqp	who is the executive producer of the movie starsky & hutch?
+www.freebase.com/m/01qvz8	www.freebase.com/film/film/film_format	www.freebase.com/m/07fb8_	what is the film format of gigli?
+www.freebase.com/m/01wg982	www.freebase.com/music/artist/origin	www.freebase.com/m/0tz14	where is regurgitationmusic from
+www.freebase.com/m/01jzyx	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/083jv	What's one of the colors of st. johns university
+www.freebase.com/m/01_1pv	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/04jpl	where was bedknobs and broomsticks filmed
+www.freebase.com/m/0xhtw	www.freebase.com/music/genre/artists	www.freebase.com/m/0d193h	who are hard rock artists
+www.freebase.com/m/01k60v	www.freebase.com/film/film/produced_by	www.freebase.com/m/0hskw	Who produced silkwood?
+www.freebase.com/m/0l14md	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01wmjkb	who played a percussion instrument?
+www.freebase.com/m/01cssf	www.freebase.com/film/film/production_companies	www.freebase.com/m/016tt2	The film romeo + juliet was produced by which company?
+www.freebase.com/m/02ph9tm	www.freebase.com/film/film/production_companies	www.freebase.com/m/017s11	which company produced the film you dont mess with the zohan
+www.freebase.com/m/03h_yfh	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0fttg	where was nat king cole from
+www.freebase.com/m/02g8h	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0pc7r	what was denis leary's place of birth?
+www.freebase.com/m/01rc4p	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	What is john astin's gender?
+www.freebase.com/m/01w8sf	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	What is Ian Mcewan's profession?
+www.freebase.com/m/0g9yrw	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	In which country was Howard the Duck filmed?
+www.freebase.com/m/05bt6j	www.freebase.com/music/genre/artists	www.freebase.com/m/02wb6yq	Name a modern female pop rock musician
+www.freebase.com/m/05xpms	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/03l2n	what state was melora hardin born
+www.freebase.com/m/016fyc	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/02_286	in which city was the the usual suspects filmed
+www.freebase.com/m/090s_0	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	where is the film gulliver's travels from
+www.freebase.com/m/02w7gg	www.freebase.com/people/ethnicity/people	www.freebase.com/m/02fx3c	who is english people
+www.freebase.com/m/02mt51	www.freebase.com/film/film/genre	www.freebase.com/m/07s9rl0	what kind of film is eternal sunshine of the spotless mind?
+www.freebase.com/m/0n5j_	www.freebase.com/location/location/contains	www.freebase.com/m/010cw1	bergen county is located in what new jersey city
+www.freebase.com/m/016r9z	www.freebase.com/user/jg/default_domain/olympic_games/sports	www.freebase.com/m/06wrt	what is a sport included in the 1900 summer olympics
+www.freebase.com/m/01k5y0	www.freebase.com/film/film/written_by	www.freebase.com/m/096hm	who wrote victor victoria
+www.freebase.com/m/07srw	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country is utah in
+www.freebase.com/m/0ql7q	www.freebase.com/base/culturalevent/event/entity_involved	www.freebase.com/m/0j54b	what family was involved in second crusade?
+www.freebase.com/m/07q1m	www.freebase.com/film/film/cinematography	www.freebase.com/m/0627sn	Who did the cinematography for the straight story?
+www.freebase.com/m/02jkkv	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country has out of sight
+www.freebase.com/m/0h96g	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0cc56	where in new york was sigourney weaver born
+www.freebase.com/m/03bw6	www.freebase.com/film/director/film	www.freebase.com/m/083skw	what film did george cukor direct
+www.freebase.com/m/020bv3	www.freebase.com/film/film/language	www.freebase.com/m/064_8sq	what is a language that love actually was produced in
+www.freebase.com/m/0bvn25	www.freebase.com/film/film/production_companies	www.freebase.com/m/016tw3	Who was the production company for the film knocked up?
+www.freebase.com/m/0jqn5	www.freebase.com/film/film/production_companies	www.freebase.com/m/030_1_	Which company produced e.t. the extra-terrestrial
+www.freebase.com/m/01jnc_	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what language do they speak in blues brothers 2000
+www.freebase.com/m/0by1wkq	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/05zbm4	who was the executive producer on the movie looper
+www.freebase.com/m/04mvk7	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/02vx4	What sport does chiapas f.c. play?
+www.freebase.com/m/049mql	www.freebase.com/film/film/country	www.freebase.com/m/03rjj	Which nation filmed alexander
+www.freebase.com/m/03shpq	www.freebase.com/film/film/genre	www.freebase.com/m/07s9rl0	What kind of film is the manchurian candidate?
+www.freebase.com/m/06by7	www.freebase.com/music/genre/artists	www.freebase.com/m/0djc3s	what artist makes rock music?
+www.freebase.com/m/02lf1j	www.freebase.com/people/person/profession	www.freebase.com/m/0cbd2	What is kevin pollak's profession?
+www.freebase.com/m/06by7	www.freebase.com/music/genre/artists	www.freebase.com/m/09prnq	what is a rock music artist that plays drums
+www.freebase.com/m/072192	www.freebase.com/film/film/genre	www.freebase.com/m/02l7c8	What kind of motion picture is a place in the sun
+www.freebase.com/m/04k15	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/043d4	who did ludwig van beethoven influence greatly
+www.freebase.com/m/0266s9	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/01t_vv	What is the genre of the tv program monk
+www.freebase.com/m/0cjf0	www.freebase.com/medicine/symptom/symptom_of	www.freebase.com/m/04psf	what illness is a fever a symptom of
+www.freebase.com/m/0cx7f	www.freebase.com/music/genre/artists	www.freebase.com/m/0167_s	What's an art rock from london
+www.freebase.com/m/015l4k	www.freebase.com/user/jg/default_domain/olympic_games/sports	www.freebase.com/m/03tmr	what was a sport played in the 1968 winter olympics
+www.freebase.com/m/0405l	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	What is jim jarmusch's nationality?
+www.freebase.com/m/0dryh9k	www.freebase.com/people/ethnicity/people	www.freebase.com/m/016k6x	Who is one of the indian people
+www.freebase.com/m/027pfb2	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	in what language was scarlett filmed
+www.freebase.com/m/017gm7	www.freebase.com/film/film/produced_by	www.freebase.com/m/0js9s	who produced the lord of the rings: the two towers?
+www.freebase.com/m/01r97z	www.freebase.com/film/film/production_companies	www.freebase.com/m/031rq5	what production company created the film  striptease
+www.freebase.com/m/0bw20	www.freebase.com/film/film/country	www.freebase.com/m/0345h	where is k-19: the widowmaker from?
+www.freebase.com/m/03hxsv	www.freebase.com/film/film/film_production_design_by	www.freebase.com/m/0d5wn3	who was the film production designer of  harry potter and the half-blood prince
+www.freebase.com/m/09qh1	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01hdht	who was cary grant influenced by?
+www.freebase.com/m/06cs95	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/01z77k	what kind of tv program is into the west
+www.freebase.com/m/01gwk3	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	what is the genre of terminator 3: rise of the machines
+www.freebase.com/m/0ql7q	www.freebase.com/base/culturalevent/event/entity_involved	www.freebase.com/m/01d8l	Where did the second crusade take place?
+www.freebase.com/m/02w70	www.freebase.com/location/location/time_zones	www.freebase.com/m/042g7t	what time zone is fredericton on?
+www.freebase.com/m/025sc50	www.freebase.com/music/genre/artists	www.freebase.com/m/01k23t	who sings contemporary r&b music
+www.freebase.com/m/04k25	www.freebase.com/film/director/film	www.freebase.com/m/0fpkhkz	what film is directed by lars von trier?
+www.freebase.com/m/034r25	www.freebase.com/film/film/country	www.freebase.com/m/07ssc	which country produced king arthur
+www.freebase.com/m/0bpjh3	www.freebase.com/people/ethnicity/people	www.freebase.com/m/01zp33	who is of bengali descent?
+www.freebase.com/m/0dpl44	www.freebase.com/film/film/production_companies	www.freebase.com/m/017s11	which company produced crazy in alabama
+www.freebase.com/m/03f22dp	www.freebase.com/people/person/religion	www.freebase.com/m/03j6c	what creed does ashok kumar practice
+www.freebase.com/m/050t68	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	What is fyvush finkel's gender?
+www.freebase.com/m/04hs7d	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/0hcr	what type of show is yu-gi-oh duel monsters
+www.freebase.com/m/0nbjq	www.freebase.com/film/film_subject/films	www.freebase.com/m/01qz5	what film is about 1924 summer olympics
+www.freebase.com/m/05w3f	www.freebase.com/music/genre/artists	www.freebase.com/m/0jltp	name an artist that produces psychedelic rock
+www.freebase.com/m/01tvz5j	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0_75d	where was maria bello born
+www.freebase.com/m/0mb0	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/0448r	who was anne rice influenced by?
+www.freebase.com/m/0cp0ph6	www.freebase.com/film/film/genre	www.freebase.com/m/05p553	what kind of movie is bad teacher
+www.freebase.com/m/01n3bm	www.freebase.com/medicine/disease/risk_factors	www.freebase.com/m/097ns	what is a risk of liver tumor
+www.freebase.com/m/04093	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0hqzr	Where was jules verne born
+www.freebase.com/m/05r6t	www.freebase.com/music/genre/artists	www.freebase.com/m/01tp5bj	what artist performs punk rock?
+www.freebase.com/m/01cf93	www.freebase.com/music/record_label/artist	www.freebase.com/m/01wx756	who is an artist signed onto elektra records
+www.freebase.com/m/08fn5b	www.freebase.com/film/film/production_companies	www.freebase.com/m/01gb54	what production company has rights to flags of our fathers
+www.freebase.com/m/058vp	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01tz6vs	Who was marcel proust influenced by?
+www.freebase.com/m/0g8bw	www.freebase.com/location/country/form_of_government	www.freebase.com/m/06cx9	what types of government is south vietnam
+www.freebase.com/m/0drnwh	www.freebase.com/film/film/production_companies	www.freebase.com/m/01gb54	what company produced memoirs of a geisha (film)
+www.freebase.com/m/06czyr	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what country is sara ramirez from
+www.freebase.com/m/05fhy	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	Which country is Nebraska apart of?
+www.freebase.com/m/0g5rg	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	what is the time zone associate with binghamton, new york
+www.freebase.com/m/011yth	www.freebase.com/film/film/produced_by	www.freebase.com/m/04y8r	who produced the film the insider?
+www.freebase.com/m/016z68	www.freebase.com/people/person/religion	www.freebase.com/m/05sfs	what is stephen rea's religion
+www.freebase.com/m/02lf70	www.freebase.com/people/person/languages	www.freebase.com/m/02bjrlw	which language does lorraine bracco speak
+www.freebase.com/m/02rjv2w	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/02301	what's a filming location used in love story (1970 film)
+www.freebase.com/m/02k6hp	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/0kb3n	who died because of cardiovascular disease
+www.freebase.com/m/015_1q	www.freebase.com/music/record_label/artist	www.freebase.com/m/04xrx	who is one of the highest selling artists signed on columbia records
+www.freebase.com/m/0k2sk	www.freebase.com/film/film/production_companies	www.freebase.com/m/04rcl7	who was the production company of who framed roger rabbit
+www.freebase.com/m/0c3z0	www.freebase.com/film/film/language	www.freebase.com/m/06b_j	what language is spoken in cast away
+www.freebase.com/m/02hnl	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/0ph2w	What instrumentalist is known for using a drum kit?
+www.freebase.com/m/01vw8k	www.freebase.com/film/film/genre	www.freebase.com/m/03k9fj	what genre is the film troy
+www.freebase.com/m/014z8v	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	which religion does george carlin belong to
+www.freebase.com/m/01ry_x	www.freebase.com/film/film/genre	www.freebase.com/m/01hmnh	What kind of movie is the little mermaid?
+www.freebase.com/m/0d_w7	www.freebase.com/people/person/religion	www.freebase.com/m/03_gx	what religion is frank gehry
+www.freebase.com/m/0653m	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0dckvs	This film falls under the mandarin chinese netflix genre.
+www.freebase.com/m/07s9rl0	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0p_tz	what's a good drama movie on netflix
+www.freebase.com/m/016tvq	www.freebase.com/tv/tv_program/program_creator	www.freebase.com/m/014zfs	who created the cosby show
+www.freebase.com/m/0739y	www.freebase.com/people/person/nationality	www.freebase.com/m/03rt9	what nationality is spike milligan milligan
+www.freebase.com/m/01vfqh	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	where was barton fink filmed
+www.freebase.com/m/01hmk9	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/01k9lpl	Name someone who was influenced by richard pryor
+www.freebase.com/m/078mm1	www.freebase.com/film/film/genre	www.freebase.com/m/02kdv5l	what kinds of movie is the cassandra crossing
+www.freebase.com/m/01cm8w	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/02_286	What metropolitan city was the rescuers located in?
+www.freebase.com/m/02847m9	www.freebase.com/film/film/genre	www.freebase.com/m/04rlf	what is the movie shine a light about
+www.freebase.com/m/04dsnp	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/04jpl	what was the featured film location of sicko
+www.freebase.com/m/025twgf	www.freebase.com/film/film/story_by	www.freebase.com/m/0fx02	Who wrote the story of dr. no (film)?
+www.freebase.com/m/068p2	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/05tfm	what is the american football team based in pittsburgh?
+www.freebase.com/m/05k4my	www.freebase.com/film/film/produced_by	www.freebase.com/m/0jrqq	Who produced the film titled lady in the water
+www.freebase.com/m/01srq2	www.freebase.com/film/film/film_format	www.freebase.com/m/0cj16	What film format was naked lunch filmed in
+www.freebase.com/m/037q2p	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/05pcjw	The university of detroit mercy is what type of institution?
+www.freebase.com/m/0284h6	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/083jv	what colors are the millwall f.c. sports team
+www.freebase.com/m/0drnwh	www.freebase.com/film/film/edited_by	www.freebase.com/m/0bn3jg	who edited memoirs of a geisha (film)
+www.freebase.com/m/01jfsb	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0233bn	What is a crime film in the netflix genre thriller?
+www.freebase.com/m/025ts_z	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language was utilized for the film 24: redemption
+www.freebase.com/m/02bj22	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is spoken in the film the santa clause 2
+www.freebase.com/m/02x02kb	www.freebase.com/people/person/languages	www.freebase.com/m/03k50	what language does achala sachdev speak
+www.freebase.com/m/02nt75	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/02vx4	which sport do the c.f. monterrey play
+www.freebase.com/m/0n6ds	www.freebase.com/film/film/produced_by	www.freebase.com/m/043q6n_	who produced cruel intentions
+www.freebase.com/m/0167xy	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/03c3yf	what band influenced thin lizzy
+www.freebase.com/m/032j_n	www.freebase.com/organization/organization/place_founded	www.freebase.com/m/02_286	which city was dimension films founded in
+www.freebase.com/m/01r2l	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0167v	What is a country where the chinese language is spoken?
+www.freebase.com/m/0glt670	www.freebase.com/music/genre/artists	www.freebase.com/m/0bqvs2	whats the name of a hip hop music rapper
+www.freebase.com/m/0gvrws1	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	which country released total recall
+www.freebase.com/m/099p5	www.freebase.com/people/person/religion	www.freebase.com/m/07w8f	what religion does linus pauling follow?
+www.freebase.com/m/034lk7	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	what time zone is  staunton, virginia situated in
+www.freebase.com/m/0r5y9	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country is san mateo in
+www.freebase.com/m/01hvjx	www.freebase.com/film/film/production_companies	www.freebase.com/m/086k8	what company produced south park: bigger, longer & uncut
+www.freebase.com/m/0dd6bf	www.freebase.com/film/film/country	www.freebase.com/m/03_3d	what country is bleach: memories of nobody from
+www.freebase.com/m/0lx2l	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/052hl	who is the inspiration of jim carrey
+www.freebase.com/m/0gyy53	www.freebase.com/film/film/costume_design_by	www.freebase.com/m/02mxbd	who did the costume design for the film  the other boleyn girl
+www.freebase.com/m/09r94m	www.freebase.com/film/film/produced_by	www.freebase.com/m/02q42j_	Who produced united 93 (film)
+www.freebase.com/m/063zky	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/03mstc	Who execultively produced the jetsons meet the flintstones
+www.freebase.com/m/02ylg6	www.freebase.com/film/film/production_companies	www.freebase.com/m/025hwq	punch-drunk love was produced by what company?
+www.freebase.com/m/01xcr4	www.freebase.com/people/person/religion	www.freebase.com/m/03_gx	what religion is barbara walters
+www.freebase.com/m/02z3r8t	www.freebase.com/film/film/language	www.freebase.com/m/0121sr	what language is spoken in new york, i love you
+www.freebase.com/m/03f5vvx	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/0h25	Who influenced Margaret Thatcher?
+www.freebase.com/m/01771z	www.freebase.com/film/film/written_by	www.freebase.com/m/0gn30	who wrote the film  cobra
+www.freebase.com/m/02pl5bx	www.freebase.com/music/genre/artists	www.freebase.com/m/03x82v	Who is a reggae fusion artist?
+www.freebase.com/m/01wbz9	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/05qtj	What city in France did robert palmer die
+www.freebase.com/m/0488g	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	which country is kansas based in
+www.freebase.com/m/018s6c	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/0jzc	What language do israelis speak
+www.freebase.com/m/05tbn	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	where is pennsylvania situated
+www.freebase.com/m/02ntb8	www.freebase.com/film/film/produced_by	www.freebase.com/m/06dkzt	Who produced the film starsky & hutch
+www.freebase.com/m/01gf5h	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0d9jr	Where was chris cornell born?
+www.freebase.com/m/02hnl	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/0473q	who plays the drum kit
+www.freebase.com/m/01cszh	www.freebase.com/music/record_label/artist	www.freebase.com/m/0b_xm	Which rock band was signed to arista records
+www.freebase.com/m/01cx_	www.freebase.com/sports/sports_team_location/teams	www.freebase.com/m/02wvfxl	what is a sports team in boston
+www.freebase.com/m/047d21r	www.freebase.com/film/film/production_companies	www.freebase.com/m/061dn_	what production company produced the fighter
+www.freebase.com/m/01k7b0	www.freebase.com/film/film/country	www.freebase.com/m/059j2	which country filmed the diary of anne frank (1959 film)
+www.freebase.com/m/0hv81	www.freebase.com/film/film/genre	www.freebase.com/m/01g6gs	what genre of film is america america
+www.freebase.com/m/0dryh9k	www.freebase.com/people/ethnicity/people	www.freebase.com/m/08d6bd	who's a film actor who is also of the indian people
+www.freebase.com/m/0cq7tx	www.freebase.com/film/film/production_companies	www.freebase.com/m/016tt2	what is the production company of the sound of music (film)?
+www.freebase.com/m/0cbkc	www.freebase.com/people/person/languages	www.freebase.com/m/04306rv	What language does catherine deneuve speak
+www.freebase.com/m/06t8b	www.freebase.com/film/director/film	www.freebase.com/m/0418wg	What is a film that steven soderbergh directed?
+www.freebase.com/m/06x68	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/06fvc	What color is associated with the st. louis cardinals
+www.freebase.com/m/01tzm9	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	Which country does dawn french have nationality in
+www.freebase.com/m/029k4p	www.freebase.com/film/film/genre	www.freebase.com/m/0lsxr	what type of film is from dusk till dawn?
+www.freebase.com/m/01x4r3	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/014z8v	who influenced lewis black
+www.freebase.com/m/0y3_8	www.freebase.com/music/genre/artists	www.freebase.com/m/02wb6yq	who performs synthpop?
+www.freebase.com/m/01clyr	www.freebase.com/music/record_label/artist	www.freebase.com/m/0fpjd_g	who is signed to the record label polydor records
+www.freebase.com/m/09yxcz	www.freebase.com/film/film/music	www.freebase.com/m/01gg59	Who did the music for the film rang de basanti
+www.freebase.com/m/03b1sb	www.freebase.com/film/film/genre	www.freebase.com/m/0lsxr	what types of movie is the grifters (film)
+www.freebase.com/m/0122wc	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/01g5v	what is the color associated with the team real sociedad
+www.freebase.com/m/0d6b7	www.freebase.com/film/film/written_by	www.freebase.com/m/032md	who wrote metropolis (film)
+www.freebase.com/m/052smk	www.freebase.com/music/genre/artists	www.freebase.com/m/016wvy	who is a well known drone music artist
+www.freebase.com/m/0436yk	www.freebase.com/film/film/genre	www.freebase.com/m/03k9fj	what kind of movie is  dragon ball z: dead zone
+www.freebase.com/m/01cgz	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0cf08	What's a boxing movie available on netflix
+www.freebase.com/m/02ppg1r	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/07s9rl0	what television genre is the starter wife?
+www.freebase.com/m/0df4y	www.freebase.com/base/aareas/schema/administrative_area/administrative_parent	www.freebase.com/m/0d05w3	what is the administrative parent of tianjin
+www.freebase.com/m/02p5hf	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/018mmw	where was david carradine buried?
+www.freebase.com/m/0n0bp	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	Which language is the film judgment at nuremberg in
+www.freebase.com/m/0gy0l_	www.freebase.com/film/film/production_companies	www.freebase.com/m/01gb54	what company produced the film letters from iwo jima
+www.freebase.com/m/0_ytw	www.freebase.com/location/hud_county_place/place	www.freebase.com/m/0_ytw	where is college station
+www.freebase.com/m/050l8	www.freebase.com/base/aareas/schema/administrative_area/capital	www.freebase.com/m/0fvxg	What's the capital of montana
+www.freebase.com/m/03m6t5	www.freebase.com/base/americancomedy/celebrity_impressionist/celebrities_impersonated	www.freebase.com/m/044qx	which celebrity does rich little impersonate
+www.freebase.com/m/016_nr	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/0glt670	what genre is east coast hip hop a part of
+www.freebase.com/m/01ynzf	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/018mm4	where is the burial place of sidney sheldon
+www.freebase.com/m/018cqq	www.freebase.com/user/ktrueman/default_domain/international_organization/member_states	www.freebase.com/m/0d060g	What country is a member of oecd
+www.freebase.com/m/0bcndz	www.freebase.com/film/film/genre	www.freebase.com/m/04t36	what genre was the movie the king and i
+www.freebase.com/m/0241wg	www.freebase.com/people/person/languages	www.freebase.com/m/03k50	what language does kajol speak
+www.freebase.com/m/0180mw	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/04gm78f	what kind or show is er (tv series)
+www.freebase.com/m/084qpk	www.freebase.com/film/film/language	www.freebase.com/m/06nm1	Which language is the film grindhouse in
+www.freebase.com/m/043s3	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	is john locke from the united kingdom or france
+www.freebase.com/m/09ld6g	www.freebase.com/people/person/languages	www.freebase.com/m/09bnf	Which language does nagesh (actor) speak
+www.freebase.com/m/040rjq	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	what is martin mcdonagh's nationality?
+www.freebase.com/m/0lk8j	www.freebase.com/olympics/olympic_games/sports	www.freebase.com/m/0bynt	what sport was played at the 1932 summer olympics
+www.freebase.com/m/05r6t	www.freebase.com/music/genre/artists	www.freebase.com/m/070b4	who is a punk rock artist?
+www.freebase.com/m/03y2kr	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	What is the nationality of Samuel Z. Arkoff?
+www.freebase.com/m/0jdr0	www.freebase.com/film/film/produced_by	www.freebase.com/m/015nvj	who produced the film the third man?
+www.freebase.com/m/03vfr_	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country was shown in the spongebob squarepants movie
+www.freebase.com/m/0286gm1	www.freebase.com/film/film/genre	www.freebase.com/m/07s9rl0	Which genre is whos afraid of virginia woolf? under
+www.freebase.com/m/039cpd	www.freebase.com/business/business_operation/industry	www.freebase.com/m/02jjt	televisa is a part of what industry?
+www.freebase.com/m/011ysn	www.freebase.com/film/film/genre	www.freebase.com/m/0219x_	what kind of film is the thin red line (1998 film)
+www.freebase.com/m/0193qj	www.freebase.com/location/country/capital	www.freebase.com/m/07dfk	what are major cities in the empire of japan?
+www.freebase.com/m/0lhn5	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country is the city savannah found in
+www.freebase.com/m/03cwwl	www.freebase.com/film/film/country	www.freebase.com/m/0345h	what country made resident evil: apocalypse
+www.freebase.com/m/027jk	www.freebase.com/location/location/time_zones	www.freebase.com/m/0gsrz4	what time zone is  djibouti located in
+www.freebase.com/m/04wqsm	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/02vx4	what sport does deportivo toluca play
+www.freebase.com/m/0295sy	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country made the robin williams film hook
+www.freebase.com/m/03y_46	www.freebase.com/people/person/nationality	www.freebase.com/m/02jx1	What is mark williams's nationality
+www.freebase.com/m/023p7l	www.freebase.com/film/film/genre	www.freebase.com/m/0hcr	what kind of film is pocahontas
+www.freebase.com/m/033q4k	www.freebase.com/education/university/fraternities_and_sororities	www.freebase.com/m/0325pb	what is a greek organization at sonoma state university
+www.freebase.com/m/050llt	www.freebase.com/people/person/languages	www.freebase.com/m/09bnf	which language does aishwarya rai speak
+www.freebase.com/m/09x8ms	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0f2wj	Where in LA did adrian adolph greenberg die
+www.freebase.com/m/01pg1d	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0t_gg	where was illeana douglas born?
+www.freebase.com/m/01jr4j	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	what type of film is topaz
+www.freebase.com/m/0342h	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/0bkg4	who knows how to play the guitar?
+www.freebase.com/m/0mpbx	www.freebase.com/location/administrative_division/country	www.freebase.com/m/09c7w0	what country is arlington county within
+www.freebase.com/m/065zlr	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/0k_q_	what is one of the featured film locations of the film nutty professor ii: the klumps
+www.freebase.com/m/016jny	www.freebase.com/music/genre/artists	www.freebase.com/m/04mky3	What is the name of a folk rock artist from detroit?
+www.freebase.com/m/042l3v	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is herbert ross' nationality
+www.freebase.com/m/076zy_g	www.freebase.com/film/film/music	www.freebase.com/m/04pf4r	Who provided the music for unstoppable?
+www.freebase.com/m/036jv	www.freebase.com/music/genre/artists	www.freebase.com/m/01vw_dv	Name an artist associated with gangsta rap.
+www.freebase.com/m/0h21v2	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	which country is the film poltergeist from
+www.freebase.com/m/0h1m9	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0t_3w	where in Massachusetts is bette davis from
+www.freebase.com/m/047csmy	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/05qtj	which european city does transformers 2 take place in?
+www.freebase.com/m/0dzf_	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/06mn7	Who was robin williams influenced by
+www.freebase.com/m/0gwjw0c	www.freebase.com/film/film/language	www.freebase.com/m/064_8sq	What language is django unchained in?
+www.freebase.com/m/09c7w0	www.freebase.com/location/country/second_level_divisions	www.freebase.com/m/0fbzp	What is a second level division of united states
+www.freebase.com/m/02ll45	www.freebase.com/film/film/genre	www.freebase.com/m/03k9fj	what type of film is the mission (1986 film)
+www.freebase.com/m/01jp4s	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/03rjj	What country is bergamo based in?
+www.freebase.com/m/0xnvg	www.freebase.com/people/ethnicity/people	www.freebase.com/m/06qgvf	Who is a notable italian american
+www.freebase.com/m/01gglm	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	Which country created the film any given sunday
+www.freebase.com/m/015y3j	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/083jv	what are the school colors for dickinson college?
+www.freebase.com/m/02w7gg	www.freebase.com/people/ethnicity/people	www.freebase.com/m/0l6px	Who is a person that associates themselves with english people
+www.freebase.com/m/01xdxy	www.freebase.com/film/film/prequel	www.freebase.com/m/0dyb1	what was the prequel to the film toy story 2
+www.freebase.com/m/02fn5r	www.freebase.com/music/artist/origin	www.freebase.com/m/0z4_0	Where is vince gill from?
+www.freebase.com/m/0755wz	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	what country is tom hollander from
+www.freebase.com/m/0pd4f	www.freebase.com/film/film/music	www.freebase.com/m/023361	WHo made the music for the film patton (film)
+www.freebase.com/m/0gf14	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/05jxkf	what type of school is ryerson university?
+www.freebase.com/m/0bl1_	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What is the language of the film midnight cowboy?
+www.freebase.com/m/0bx_hnp	www.freebase.com/film/film/genre	www.freebase.com/m/0jtdp	what type of film is george harrison: living in the material world
+www.freebase.com/m/026wlxw	www.freebase.com/film/film/story_by	www.freebase.com/m/02q4mt	who wrote the story for get smart
+www.freebase.com/m/050ks	www.freebase.com/location/location/contains	www.freebase.com/m/0nm6k	What's a county in maine
+www.freebase.com/m/02q_cc	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/030_1_	What organization was founded by kathleen kennedy (film producer)
+www.freebase.com/m/015pxr	www.freebase.com/people/person/religion	www.freebase.com/m/0kpl	what religion does ricky gervais practice
+www.freebase.com/m/0dq626	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country  made the film holes
+www.freebase.com/m/06znpjr	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what is the language of gulliver's travels
+www.freebase.com/m/0l14md	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01w923	who played a percussion instrument?
+www.freebase.com/m/045xh	www.freebase.com/award/award_category/disciplines_or_subjects	www.freebase.com/m/02xlf	which literary genre is james tiptree, jr. award awarded for
+www.freebase.com/m/0r0f7	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lcqs	which timezone is inglewood, california in
+www.freebase.com/m/02tf1y	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what country is damon wayans from?
+www.freebase.com/m/0410cp	www.freebase.com/people/person/religion	www.freebase.com/m/04pk9	What religion does annabeth gish belong to?
+www.freebase.com/m/0694j	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	Which timezone is quebec located in
+www.freebase.com/m/07tj4c	www.freebase.com/film/film/genre	www.freebase.com/m/07s9rl0	what genre of film is emma?
+www.freebase.com/m/0ds33	www.freebase.com/film/film/produced_by	www.freebase.com/m/02qzjj	who is the producer of armageddon
+www.freebase.com/m/0124ld	www.freebase.com/olympics/olympic_games/sports	www.freebase.com/m/02_5h	whats an event featured in the 1952 winter olympics
+www.freebase.com/m/0by1wkq	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	What was the genre of the film looper?
+www.freebase.com/m/01cl2y	www.freebase.com/music/record_label/artist	www.freebase.com/m/017f4y	What is the name of an artist that is signed to reprise records
+www.freebase.com/m/01g1lp	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	What is gus van sant's gender?
+www.freebase.com/m/05ch98	www.freebase.com/film/film/music	www.freebase.com/m/018x3	What made the music for the jacket
+www.freebase.com/m/0gcrgxh	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what is the language of the film grace paley: collected shorts
+www.freebase.com/m/0c11mj	www.freebase.com/people/person/nationality	www.freebase.com/m/01p1v	which country is mauricio pinilla from
+www.freebase.com/m/01l_pn	www.freebase.com/film/film/language	www.freebase.com/m/0653m	what language is charlie's angels: full throttle spoken in
+www.freebase.com/m/0chnf	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/0fpzzp	solaris (operating system) was influenced by which computer operating system?
+www.freebase.com/m/01n7q	www.freebase.com/location/location/contains	www.freebase.com/m/02gnmp	What is an example of a school in california
+www.freebase.com/m/0g6ff	www.freebase.com/people/ethnicity/geographic_distribution	www.freebase.com/m/0d0kn	which country contains ethnic russians?
+www.freebase.com/m/02rhwjr	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/0jxy	what kind of show is mobile suit gundam 00?
+www.freebase.com/m/05nlzq	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/095bb	what kind of tv show was a pup named scooby-doo
+www.freebase.com/m/0kz2w	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/07tf8	What type of school is brandeis university?
+www.freebase.com/m/0l2v0	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lcqs	What is san luis obispo county's location within the time zone?
+www.freebase.com/m/04rrd	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country is  maryland from
+www.freebase.com/m/0h14ln	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	what kinds of movie is perfume: the story of a murderer
+www.freebase.com/m/0234j5	www.freebase.com/film/film/produced_by	www.freebase.com/m/054_mz	who produced jackie brown (film)
+www.freebase.com/m/03cdg	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/08304	which activist influenced george bernard shaw
+www.freebase.com/m/0h99n	www.freebase.com/medicine/disease/notable_people_with_this_condition	www.freebase.com/m/06tp4h	Who is a notable person who is affected by attention deficit hyperactivity disorder
+www.freebase.com/m/08b0cj	www.freebase.com/people/person/religion	www.freebase.com/m/0flw86	what is the religion of mohamed kallon
+www.freebase.com/m/0byq0v	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/019sc	What color are fc lorient's uniforms
+www.freebase.com/m/0g3zrd	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/01_d4	where was the film public enemies (2009 film) shot?
+www.freebase.com/m/0ndwt2w	www.freebase.com/film/film/written_by	www.freebase.com/m/063b4k	Who is someone that gave significant contributions to the hobbit: an unexpected journey
+www.freebase.com/m/06zn2v2	www.freebase.com/film/film/film_format	www.freebase.com/m/0cj16	Which film format is don't be afraid of the dark in
+www.freebase.com/m/029h7y	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/0glt670	what is the parent genre of electro
+www.freebase.com/m/08sfxj	www.freebase.com/film/film/music	www.freebase.com/m/02g1jh	what music is on the film amazing grace?
+www.freebase.com/m/01k3s2	www.freebase.com/education/educational_institution/campuses	www.freebase.com/m/01k3s2	What is the name of the university of alberta campus?
+www.freebase.com/m/0jm74	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/018w8	Which sport are the chicago bulls associated with
+www.freebase.com/m/0mhfr	www.freebase.com/music/genre/artists	www.freebase.com/m/0pkyh	what is a country rock musician
+www.freebase.com/m/084x96	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0dzt9	Where was greg ayres born
+www.freebase.com/m/0jdgr	www.freebase.com/film/film/story_by	www.freebase.com/m/02xyl	Who did the story for the film dune
+www.freebase.com/m/01svry	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/0vzm	What was a location featured in  the faculty
+www.freebase.com/m/01gpzx	www.freebase.com/location/administrative_division/country	www.freebase.com/m/0h7x	What country has the administrative division styria
+www.freebase.com/m/03nqnnk	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	What country was searching for debra winger filmed in
+www.freebase.com/m/0d7wh	www.freebase.com/people/ethnicity/people	www.freebase.com/m/0f2df	Who is a person who is one of the british people
+www.freebase.com/m/0411q8p	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	what's gabriele santini's gender
+www.freebase.com/m/01g23m	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/030qb3t	which city was kate hudson born
+www.freebase.com/m/078sj4	www.freebase.com/film/film/cinematography	www.freebase.com/m/02vx4c2	who is the cinematographer for syriana
+www.freebase.com/m/051zy_b	www.freebase.com/film/film/produced_by	www.freebase.com/m/03v1xb	Who produced the film a few good men
+www.freebase.com/m/01f8hf	www.freebase.com/film/film/story_by	www.freebase.com/m/0cv9fc	who wrote the story for aliens (film)
+www.freebase.com/m/033dbw	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is used in beloved (film)
+www.freebase.com/m/015_1q	www.freebase.com/music/record_label/artist	www.freebase.com/m/0k6yt1	whats the name of an artist on columbia records
+www.freebase.com/m/0lgxj	www.freebase.com/olympics/olympic_games/participating_countries	www.freebase.com/m/0d0vqn	Name a country that participated in the 1952 summer olympics
+www.freebase.com/m/0155j3	www.freebase.com/location/administrative_division/country	www.freebase.com/m/05v8c	Which country is cebu in
+www.freebase.com/m/036pxv	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	which gender does roland duchâtelet belong to
+www.freebase.com/m/08jtv5	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	What is the nationality of michael bell?
+www.freebase.com/m/09z2b7	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	Where was the film the wings of the dove released?
+www.freebase.com/m/090s_0	www.freebase.com/film/film/story_by	www.freebase.com/m/03_dj	who wrote gulliver's travels
+www.freebase.com/m/03wxvk	www.freebase.com/location/administrative_division/country	www.freebase.com/m/03rjj	Which country is the province of como in?
+www.freebase.com/m/03vyw8	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country is the film mrs. parker and the vicious circle filmed in?
+www.freebase.com/m/08l_c1	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01g5v	what is a color of royal college
+www.freebase.com/m/04165w	www.freebase.com/film/film/genre	www.freebase.com/m/04xvlr	What kind of film is finding neverland?
+www.freebase.com/m/021j72	www.freebase.com/people/person/languages	www.freebase.com/m/0688f	What language does raj kapoor speak
+www.freebase.com/m/07c52	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/02pqs8l	Name a HBO show featured on television
+www.freebase.com/m/039c26	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/02p0szs	What kind of tv program is deadwood
+www.freebase.com/m/0cz_ym	www.freebase.com/film/film/genre	www.freebase.com/m/04xvlr	what genre is american gangster (film)
+www.freebase.com/m/09_2gj	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0c8tk	where did raghuvaran pass away at?
+www.freebase.com/m/01337_	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/018mm4	where is james coburn buried
+www.freebase.com/m/06fc0b	www.freebase.com/people/person/profession	www.freebase.com/m/01d_h8	Other than portraying the character Vincent Chase, what is another of Adrian Grenier's professions?
+www.freebase.com/m/03jsvl	www.freebase.com/music/genre/artists	www.freebase.com/m/03c3yf	what artist performs roots rock
+www.freebase.com/m/0466s8n	www.freebase.com/film/film/story_by	www.freebase.com/m/01v_0b	what is the story of the road (film)
+www.freebase.com/m/03phtz	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	is daylight from the united states or canada
+www.freebase.com/m/01d494	www.freebase.com/user/alexander/philosophy/philosopher/interests	www.freebase.com/m/02jcc	was richard rorty interested in epistemology
+www.freebase.com/m/0fw2f	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country is charleston in?
+www.freebase.com/m/05bt6j	www.freebase.com/music/genre/artists	www.freebase.com/m/01k_0fp	Who is an artist known for pop rock?
+www.freebase.com/m/01kff7	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what language was the wild wild west filmed in
+www.freebase.com/m/05bcl	www.freebase.com/location/location/contains	www.freebase.com/m/0dwfw	what is a county in northern ireland
+www.freebase.com/m/01vh096	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/081k8	Who was victor hugo influenced by?
+www.freebase.com/m/03k9fj	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/02q8ms8	name a netflix adventure film
+www.freebase.com/m/06__m6	www.freebase.com/film/film/genre	www.freebase.com/m/01t_vv	what kind of film is thank you for smoking?
+www.freebase.com/m/0150t6	www.freebase.com/music/artist/origin	www.freebase.com/m/02z0j	Where is hans zimmer from?
+www.freebase.com/m/0645k5	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/04jpl	where was v for vendetta filmed?
+www.freebase.com/m/01fjw0	www.freebase.com/location/administrative_division/country	www.freebase.com/m/03rt9	what country is wexford the administrative division for
+www.freebase.com/m/0c9k8	www.freebase.com/film/film/language	www.freebase.com/m/04306rv	What language is the film Reds in?
+www.freebase.com/m/012jfb	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is featured in the film bowling for columbine
+www.freebase.com/m/09c7w0	www.freebase.com/location/location/contains	www.freebase.com/m/0r6rq	what is a northern californian city in the united states
+www.freebase.com/m/0h2zvzr	www.freebase.com/film/film/country	www.freebase.com/m/07ssc	which European country is the film midnight's children from
+www.freebase.com/m/053tj7	www.freebase.com/film/film/film_format	www.freebase.com/m/0cj16	which country is neil smith from
+www.freebase.com/m/050fh	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/083jv	what are manchester united f.c.'s team colors
+www.freebase.com/m/04llb	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/05r4w	Where was lisbon located in?
+www.freebase.com/m/0b1hw	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/0m2l9	who influenced soundgarden
+www.freebase.com/m/03rg2b	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what do the actors speak in in harms way
+www.freebase.com/m/02w4v	www.freebase.com/music/genre/artists	www.freebase.com/m/01kd57	what's the name of a folk music act
+www.freebase.com/m/027t8fw	www.freebase.com/people/person/profession	www.freebase.com/m/02jknp	What is dean semler's profession?
+www.freebase.com/m/0c58k	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/03h_fk5	what person died from diabetes mellitus?
+www.freebase.com/m/047csmy	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what is the primary language in the film  transformers 2
+www.freebase.com/m/0gd_s	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/05qmj	Who was a major influence for samuel r. delany
+www.freebase.com/m/0k4p0	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	which language is tootsie filmed in
+www.freebase.com/m/040vk98	www.freebase.com/award/award_category/disciplines_or_subjects	www.freebase.com/m/06n90	What is the subject of locus award for best science fiction novel?
+www.freebase.com/m/0dr_4	www.freebase.com/film/film/film_production_design_by	www.freebase.com/m/04_1nk	who did the film production design of titanic (1997 film)
+www.freebase.com/m/0d66j2	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/05p553	What type of TV show is brothers & sisters
+www.freebase.com/m/05lbzg	www.freebase.com/base/culturalevent/event/entity_involved	www.freebase.com/m/025ndl	what kingdom was involved int he first war of scottish independence
+www.freebase.com/m/05w3f	www.freebase.com/music/genre/artists	www.freebase.com/m/011hdn	What's a psychedelic rock artist
+www.freebase.com/m/020hyj	www.freebase.com/people/person/nationality	www.freebase.com/m/0b90_r	what is the nationality of luis miguel?
+www.freebase.com/m/01fxg8	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/052q4j	what kind of educational institution is pontifical gregorian university
+www.freebase.com/m/0m123	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/07s9rl0	What genre is the TV show the waltons?
+www.freebase.com/m/034qmv	www.freebase.com/film/film/story_by	www.freebase.com/m/04093	Who wrote around the world in 80 days's story?
+www.freebase.com/m/043c4j	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	Which country does matt chamberlain have nationality in
+www.freebase.com/m/02grjf	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01l849	What is a color of calvin college?
+www.freebase.com/m/016clz	www.freebase.com/music/genre/artists	www.freebase.com/m/01wy61y	what is the name of an alternative rock artist from japan
+www.freebase.com/m/024qqx	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0pc62	What's an example of a blockbuster
+www.freebase.com/m/016clz	www.freebase.com/music/genre/artists	www.freebase.com/m/01w3lzq	who is an alternative rock artist?
+www.freebase.com/m/0jlv5	www.freebase.com/people/person/gender	www.freebase.com/m/02zsn	is zhang ziyi female or male
+www.freebase.com/m/0ckrgs	www.freebase.com/film/film/language	www.freebase.com/m/03_9r	what language was used in the film sailor moon s the movie
+www.freebase.com/m/0ywrc	www.freebase.com/film/film/country	www.freebase.com/m/0f8l9c	what country was the film the last emperor done in
+www.freebase.com/m/064177	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/030qb3t	Where did frances marion die?
+www.freebase.com/m/06ncr	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01wp8w7	Name someone who played the saxophone
+www.freebase.com/m/03f4k	www.freebase.com/people/person/profession	www.freebase.com/m/0nbcg	What is george gershwin's profession?
+www.freebase.com/m/019vv1	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01g5v	What is one of the school colors of the charterhouse school
+www.freebase.com/m/0342h	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01rwcgb	who is an indian musician who plays guitar
+www.freebase.com/m/049nq	www.freebase.com/location/location/contains	www.freebase.com/m/0fqxw	Name a province in Kingdom of the Netherlands.
+www.freebase.com/m/07srw	www.freebase.com/location/administrative_division/country	www.freebase.com/m/09c7w0	which country is utah in
+www.freebase.com/m/0h3lt	www.freebase.com/location/location/time_zones	www.freebase.com/m/02lcqs	What time zone is huntington beach in?
+www.freebase.com/m/0dzz6g	www.freebase.com/film/film/film_format	www.freebase.com/m/0cj16	What is the film format of american splendor?
+www.freebase.com/m/0kbvv	www.freebase.com/user/jg/default_domain/olympic_games/sports	www.freebase.com/m/09_9n	what event took place in the 2006 winter olympics
+www.freebase.com/m/07ghq	www.freebase.com/film/film/written_by	www.freebase.com/m/03_gd	the terminator was written by who?
+www.freebase.com/m/060__7	www.freebase.com/film/film/genre	www.freebase.com/m/060__y	what is the film genre for snow falling on cedars?
+www.freebase.com/m/0gwjw0c	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/0d_skg	who is the producer of django unchained?
+www.freebase.com/m/01kmd4	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	is kobe bryant male or female
+www.freebase.com/m/01q2nx	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	which genre of film is deep impact under?
+www.freebase.com/m/05dy7p	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	Which language is the film kundun filmed in
+www.freebase.com/m/01738f	www.freebase.com/music/genre/artists	www.freebase.com/m/01vw20_	what artist is a form of funk metal?
+www.freebase.com/m/0dls3	www.freebase.com/music/genre/artists	www.freebase.com/m/0ycp3	what is the name of a grunge rock band
+www.freebase.com/m/0b90_r	www.freebase.com/location/location/contains	www.freebase.com/m/0183z2	what is a location in mexico?
+www.freebase.com/m/0p_th	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/02nd_	What's a location that's featured in kramer vs. kramer
+www.freebase.com/m/01yz0x	www.freebase.com/award/award_category/disciplines_or_subjects	www.freebase.com/m/05hgj	What discipline  is awarded with the hugo award for best novel
+www.freebase.com/m/01rc6f	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/03wkwg	Which are the school colors of university of arkansas?
+www.freebase.com/m/0dl5d	www.freebase.com/music/genre/artists	www.freebase.com/m/01w3lzq	what is a progressive rock artist?
+www.freebase.com/m/0fqt1ns	www.freebase.com/film/film/music	www.freebase.com/m/02cyfz	who did the music in the film  the amazing spider-man
+www.freebase.com/m/0jnpv	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/03tmr	What sport do the Dallas Stars play?
+www.freebase.com/m/02lp3c	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is the nationality of walter murch?
+www.freebase.com/m/0880p	www.freebase.com/language/human_language/countries_spoken_in	www.freebase.com/m/0jgd	where do they speak the yiddish language
+www.freebase.com/m/0c5dd	www.freebase.com/film/film/produced_by	www.freebase.com/m/030pr	who produced  it happened one night
+www.freebase.com/m/0r7fy	www.freebase.com/location/hud_county_place/place	www.freebase.com/m/0r7fy	what city is in modesto
+www.freebase.com/m/0m63c	www.freebase.com/film/film/production_companies	www.freebase.com/m/04rcl7	who produced the lion king
+www.freebase.com/m/016cjb	www.freebase.com/music/genre/artists	www.freebase.com/m/017xm3	who is the female multiple gold album gospel music singer?
+www.freebase.com/m/035xwd	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	Which country is sleepers from
+www.freebase.com/m/0jqn5	www.freebase.com/film/film/film_festivals	www.freebase.com/m/05f5rsr	The film e.t. the extra-terrestrial was shown at what film festival
+www.freebase.com/m/0ddj0x	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	in which country was the the commitments movie filmed
+www.freebase.com/m/0ldd	www.freebase.com/people/person/nationality	www.freebase.com/m/07ssc	What is agatha christie's nationality
+www.freebase.com/m/0cfgd	www.freebase.com/music/artist/origin	www.freebase.com/m/03msf	where did the music artist deep purple come from
+www.freebase.com/m/018p4y	www.freebase.com/people/person/languages	www.freebase.com/m/02h40lc	what language is spoken by pierce brosnan
+www.freebase.com/m/047vnkj	www.freebase.com/film/film/production_companies	www.freebase.com/m/05rrtf	what company did produce the 2012 science fiction movie
+www.freebase.com/m/01w9ph_	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	where is the american poet from
+www.freebase.com/m/0694j	www.freebase.com/base/aareas/schema/administrative_area/capital	www.freebase.com/m/0pmp2	what is the capital of quebec
+www.freebase.com/m/07ldhs	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	what religion is taylor lautner
+www.freebase.com/m/0lgxj	www.freebase.com/olympics/olympic_games/participating_countries	www.freebase.com/m/03_3d	what country participated in the  1952 summer olympics
+www.freebase.com/m/0l2rj	www.freebase.com/location/location/contains	www.freebase.com/m/0r4z7	Name a city located in san diego county, california
+www.freebase.com/m/03np_7	www.freebase.com/education/educational_institution/campuses	www.freebase.com/m/03np_7	what's the name of a university of texas at arlington campus
+www.freebase.com/m/047gn4y	www.freebase.com/film/film/edited_by	www.freebase.com/m/03q8ch	Who edited the film prince of persia: the sands of time?
+www.freebase.com/m/07bty	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/03bnb	what is an organization founded by thomas edison
+www.freebase.com/m/0yyg4	www.freebase.com/film/film/genre	www.freebase.com/m/02qfv5d	What style of film is mississippi burning?
+www.freebase.com/m/045m1_	www.freebase.com/people/person/profession	www.freebase.com/m/067nv	what is jesus christ known for doing during his lifetime
+www.freebase.com/m/01lnyf	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/05jxkf	What type of school is wichita state university?
+www.freebase.com/m/02bqxb	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country is the fly from?
+www.freebase.com/m/03rjj	www.freebase.com/location/country/second_level_divisions	www.freebase.com/m/0537y_	what is a division in italy?
+www.freebase.com/m/03b12	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	which timezone is gary located in
+www.freebase.com/m/0gkg6m7	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	whats chris dapkins's gender
+www.freebase.com/m/0t0n5	www.freebase.com/location/hud_county_place/place	www.freebase.com/m/0t0n5	where is cedar rapids
+www.freebase.com/m/01sxd1	www.freebase.com/people/person/profession	www.freebase.com/m/01d_h8	What is the profession of sarah brightman?
+www.freebase.com/m/04p3w	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/0d4jl	who died of lung cancer
+www.freebase.com/m/0ddt_	www.freebase.com/film/film/genre	www.freebase.com/m/06n90	what genre is the the phantom menace
+www.freebase.com/m/01z3bz	www.freebase.com/location/location/time_zones	www.freebase.com/m/02llzg	what time zone is technical university of munich located in?
+www.freebase.com/m/017236	www.freebase.com/location/administrative_division/country	www.freebase.com/m/0d05w3	what country is the city chongqing in
+www.freebase.com/m/06by7	www.freebase.com/music/genre/artists	www.freebase.com/m/04b7xr	Name an artist who plays rock music.
+www.freebase.com/m/03b1l8	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country is the fabulous baker boys from
+www.freebase.com/m/01lxw6	www.freebase.com/base/biblioness/bibs_location/country	www.freebase.com/m/09c7w0	what country is  lexington, massachusetts located
+www.freebase.com/m/04jjy	www.freebase.com/film/film_subject/films	www.freebase.com/m/05t0_2v	name a lesbian film
+www.freebase.com/m/07ssc	www.freebase.com/location/country/second_level_divisions	www.freebase.com/m/02fvv	what is a city located in the united kingdom
+www.freebase.com/m/040nwr	www.freebase.com/people/person/languages	www.freebase.com/m/07c9s	What language does shilpa shetty speak?
+www.freebase.com/m/01vvzb1	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is dmx's country of nationality?
+www.freebase.com/m/01vfqh	www.freebase.com/film/film/genre	www.freebase.com/m/05p553	what film genre is barton fink?
+www.freebase.com/m/0bt9lr	www.freebase.com/film/film_subject/films	www.freebase.com/m/07_fj54	whats the name of a film whose subject was dog
+www.freebase.com/m/02q52q	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	Which country did the wizard of oz (1939 film) originate in?
+www.freebase.com/m/04zl8	www.freebase.com/film/film/written_by	www.freebase.com/m/03dq9	Who wrote monty python and the holy grail?
+www.freebase.com/m/02nf2c	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/05p553	what tv genre is barney miller
+www.freebase.com/m/02jx1	www.freebase.com/location/location/contains	www.freebase.com/m/0m4yg	What is the name of a school in england
+www.freebase.com/m/02h7qr	www.freebase.com/education/educational_institution/campuses	www.freebase.com/m/02h7qr	which campus is towson university in
+www.freebase.com/m/02bg55	www.freebase.com/film/film/country	www.freebase.com/m/0d060g	What country was the film the butterfly effect first released?
+www.freebase.com/m/03vw9m	www.freebase.com/music/genre/artists	www.freebase.com/m/0161c2	which artist is considered a modern rock musician
+www.freebase.com/m/04t36	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0hv1t	what's a musical film on netflix
+www.freebase.com/m/02q87z6	www.freebase.com/film/film/music	www.freebase.com/m/02jxmr	what type of music is in the film the village (2004 film)
+www.freebase.com/m/03rz2b	www.freebase.com/film/film/genre	www.freebase.com/m/02l7c8	what is the genre of monsoon wedding
+www.freebase.com/m/0hkt6	www.freebase.com/film/film_subject/films	www.freebase.com/m/07f_t4	what film is based in ancient greece?
+www.freebase.com/m/0161c	www.freebase.com/location/country/official_language	www.freebase.com/m/0jzc	which language is spoken in bahrain
+www.freebase.com/m/02183k	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/06fvc	Name one of University of Georgia's school colors.
+www.freebase.com/m/0mj0c	www.freebase.com/user/alexander/philosophy/philosopher/interests	www.freebase.com/m/05qfh	what were william james' interests
+www.freebase.com/m/017yfz	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/02_286	Where did gil scott-heron die
+www.freebase.com/m/01y665	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	is victor garber male or female
+www.freebase.com/m/01cdt5	www.freebase.com/medicine/symptom/symptom_of	www.freebase.com/m/0hg11	what is a manifestation of dyspnea
+www.freebase.com/m/09nwwf	www.freebase.com/music/genre/artists	www.freebase.com/m/017j6	Who is a funk rock artist
+www.freebase.com/m/0fpzt5	www.freebase.com/people/person/profession	www.freebase.com/m/0kyk	What is the profession of orson scott card
+www.freebase.com/m/05k2xy	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	which country is the interpreter from
+www.freebase.com/m/09889g	www.freebase.com/base/eating/practicer_of_diet/diet	www.freebase.com/m/07_jd	what diet did michael jackson practice
+www.freebase.com/m/02knxx	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/015qt5	Name a person who died from natural causes.
+www.freebase.com/m/07l450	www.freebase.com/film/film/written_by	www.freebase.com/m/0h5f5n	who wrote the film the last king of scotland
+www.freebase.com/m/02scbv	www.freebase.com/film/film/country	www.freebase.com/m/07zrf	what is one of the dubbed languages in rambo: first blood part ii
+www.freebase.com/m/08hsww	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what country is b. j. novak from?
+www.freebase.com/m/027rpym	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	which language is primarily spoken in oklahoma!
+www.freebase.com/m/0bn3jg	www.freebase.com/people/person/nationality	www.freebase.com/m/03rjj	what is the nationality of pietro scalia?
+www.freebase.com/m/026n4h6	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	What kind of movie is i know who killed me
+www.freebase.com/m/0721cy	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	which country is sam simon from
+www.freebase.com/m/01c6l	www.freebase.com/film/director/film	www.freebase.com/m/07z6xs	which movie is directed by brian de palma
+www.freebase.com/m/011yhm	www.freebase.com/film/film/country	www.freebase.com/m/07ssc	What country was the film fargo created in?
+www.freebase.com/m/07gxw	www.freebase.com/music/genre/artists	www.freebase.com/m/01sxd1	Name a techno artist.
+www.freebase.com/m/018cqq	www.freebase.com/user/ktrueman/default_domain/international_organization/member_states	www.freebase.com/m/03rt9	what is one of the member states of the international organization oecd?
+www.freebase.com/m/0660b9b	www.freebase.com/film/film/genre	www.freebase.com/m/0gf28	what type of movie is the men who stare at goats
+www.freebase.com/m/0821j	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/07w21	who was a big influence of william gibson
+www.freebase.com/m/07vn_9	www.freebase.com/film/film/production_companies	www.freebase.com/m/086k8	what is the production company of zodiac (film)?
+www.freebase.com/m/0p2rj	www.freebase.com/location/us_county/county_seat	www.freebase.com/m/0ftvg	What's the county seat of pulaski county
+www.freebase.com/m/0sxdg	www.freebase.com/organization/organization/place_founded	www.freebase.com/m/0mgp	where was the news corporation founded
+www.freebase.com/m/0dwl2	www.freebase.com/business/business_operation/industry	www.freebase.com/m/01mw1	what industry is valve corporation in
+www.freebase.com/m/03hfxx	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/05tbn	where did mehmood's life end
+www.freebase.com/m/037q2p	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/06fvc	what is the characteristic color of the university of detroit mercy
+www.freebase.com/m/0qcr0	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/09dt7	what writer died of cancer
+www.freebase.com/m/01dbk6	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	What is Anne Bancroft's religion?
+www.freebase.com/m/03mqtr	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0c38gj	which political drama film in netflix features leonardo dicaprio?
+www.freebase.com/m/05q_dw	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/02_286	Where was the squid and the whale filmed
+www.freebase.com/m/02z3r8t	www.freebase.com/film/film/written_by	www.freebase.com/m/09l3p	who wrote new york, i love you
+www.freebase.com/m/01npcx	www.freebase.com/film/film/genre	www.freebase.com/m/0bkbm	What kind of film is goldeneye?
+www.freebase.com/m/08m4c8	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0ytph	Where was justin chambers born?
+www.freebase.com/m/06gb1w	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/079vf	who executive produced the movie x-men 3
+www.freebase.com/m/017y26	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01rs41	what type of school is the university of pennsylvania law school
+www.freebase.com/m/0qcrj	www.freebase.com/base/biblioness/bibs_location/state	www.freebase.com/m/01n7q	in which state is menlo park
+www.freebase.com/m/03rhqg	www.freebase.com/music/record_label/artist	www.freebase.com/m/047cx	What's an artist signed to warner bros. records?
+www.freebase.com/m/0gvvf4j	www.freebase.com/film/film/production_companies	www.freebase.com/m/061dn_	what company produced piranha dd
+www.freebase.com/m/021b_	www.freebase.com/people/person/religion	www.freebase.com/m/03_gx	What religion did carol kane practice
+www.freebase.com/m/04v7k2	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	What religion does vijay practice
+www.freebase.com/m/02_kd	www.freebase.com/film/film/genre	www.freebase.com/m/06cvj	What is the genre of the film four weddings and a funeral
+www.freebase.com/m/0s69k	www.freebase.com/location/location/time_zones	www.freebase.com/m/02fqwt	what time zone is aurora in?
+www.freebase.com/m/07c52	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/02rzdcp	What is a show in the television netflix genre?
+www.freebase.com/m/0gxtknx	www.freebase.com/film/film/country	www.freebase.com/m/07ww5	what country was seven psychopaths filmed
+www.freebase.com/m/01c6zg	www.freebase.com/location/location/time_zones	www.freebase.com/m/02llzg	which time zone is upper normandy in
+www.freebase.com/m/09c7w0	www.freebase.com/location/location/contains	www.freebase.com/m/04_j5s	What is a law school that is in the united states?
+www.freebase.com/m/0ck91	www.freebase.com/people/person/languages	www.freebase.com/m/02h40lc	Which language does jane seymour speak?
+www.freebase.com/m/04rwx	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/036k5h	what are massachusetts institute of technology's school colors
+www.freebase.com/m/05jm7	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/014ps4	Who was English author neil gaiman influenced by?
+www.freebase.com/m/01w1sx	www.freebase.com/film/film_subject/films	www.freebase.com/m/08720	what film is about the cold war?
+www.freebase.com/m/05gg4	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/0jm_	Which sport do the new york giants play
+www.freebase.com/m/09c7w0	www.freebase.com/location/location/contains	www.freebase.com/m/0ncj8	which city is located in united states
+www.freebase.com/m/0f3kl	www.freebase.com/medicine/symptom/symptom_of	www.freebase.com/m/024c2	what infection involves diarrhea
+www.freebase.com/m/07q1m	www.freebase.com/film/film/genre	www.freebase.com/m/04228s	what category of film is the straight story
+www.freebase.com/m/04x1_w	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/02_286	Where was olivia wilde born
+www.freebase.com/m/011k11	www.freebase.com/organization/organization/place_founded	www.freebase.com/m/04jpl	which city was decca records founded in
+www.freebase.com/m/01gwk3	www.freebase.com/film/film/music	www.freebase.com/m/0b6yp2	which music is used in terminator 3: rise of the machines
+www.freebase.com/m/0t_4_	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0k3k1	Which county is medford, massachusetts in
+www.freebase.com/m/05q_dw	www.freebase.com/film/film/production_companies	www.freebase.com/m/03rwz3	which production company does the squid and the whale belong to
+www.freebase.com/m/034qzw	www.freebase.com/film/film/production_companies	www.freebase.com/m/01gb54	What company produced ron burgundy?
+www.freebase.com/m/04jwly	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/06t8b	who produced the film far from heaven
+www.freebase.com/m/03w6sj	www.freebase.com/base/culturalevent/event/entity_involved	www.freebase.com/m/059z0	what is the name of a country that was involved in the western desert campaign?
+www.freebase.com/m/02mzg9	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01rs41	What type of school is the university of denver
+www.freebase.com/m/01k165	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/01swmr	What is the name of an organization that was founded by stephen harper
+www.freebase.com/m/01k5y0	www.freebase.com/film/film/country	www.freebase.com/m/07ssc	which country released victor victoria
+www.freebase.com/m/0gyv0b4	www.freebase.com/film/film/genre	www.freebase.com/m/02kdv5l	what kind of film in kill bill volume 2
+www.freebase.com/m/01pvxl	www.freebase.com/film/film/genre	www.freebase.com/m/04t36	what kind of film was anastasia
+www.freebase.com/m/0j_c	www.freebase.com/film/director/film	www.freebase.com/m/0jwvf	Name a film directed by alfred hitchcock
+www.freebase.com/m/02qcqkl	www.freebase.com/music/genre/artists	www.freebase.com/m/05d8vw	Who's a musician that plays urban contemporary gospel
+www.freebase.com/m/05sb1	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what is the official language of pakistan
+www.freebase.com/m/0hnp7	www.freebase.com/people/deceased_person/place_of_burial	www.freebase.com/m/018mmj	which part was errol flynn burried
+www.freebase.com/m/01lxd4	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/0p9xd	what is the parent genre of avant-garde jazz
+www.freebase.com/m/012mrr	www.freebase.com/film/film/edited_by	www.freebase.com/m/03q8ch	who was the editor for the film close encounters of the third kind?
+www.freebase.com/m/05krk	www.freebase.com/education/university/fraternities_and_sororities	www.freebase.com/m/035tlh	name a fraternity at ohio state university.
+www.freebase.com/m/026390q	www.freebase.com/film/film/country	www.freebase.com/m/0f8l9c	what country is thelma and louise from?
+www.freebase.com/m/0kvqv	www.freebase.com/film/director/film	www.freebase.com/m/011ysn	What's a movie that terrence malick directed
+www.freebase.com/m/014635	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is the country of mark twain's nationality?
+www.freebase.com/m/030qb3t	www.freebase.com/location/location/contains	www.freebase.com/m/018mrd	which cemetery is located in los angeles
+www.freebase.com/m/019tfm	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/09ggk	what are the colors of northwestern state university?
+www.freebase.com/m/07cdz	www.freebase.com/film/film/genre	www.freebase.com/m/02l7c8	What genre of film is the graduate?
+www.freebase.com/m/02w1b8	www.freebase.com/film/film_subject/films	www.freebase.com/m/0dzlbx	what film is about the arms industry
+www.freebase.com/m/02_1q9	www.freebase.com/tv/tv_program/languages	www.freebase.com/m/02h40lc	which language was another world broadcast in
+www.freebase.com/m/03k8th	www.freebase.com/film/film/language	www.freebase.com/m/02bjrlw	What language was spoken in the bourne supremacy?
+www.freebase.com/m/0hvvf	www.freebase.com/film/film/genre	www.freebase.com/m/03bxz7	What genre is the Bonnie and Clyde film?
+www.freebase.com/m/01jtp7	www.freebase.com/education/educational_institution_campus/educational_institution	www.freebase.com/m/01jtp7	which school is in wharton school of the university of pennsylvania
+www.freebase.com/m/0dj0x	www.freebase.com/location/location/contains	www.freebase.com/m/0173s9	what is located in wiltshire?
+www.freebase.com/m/011wtv	www.freebase.com/film/film/film_format	www.freebase.com/m/07fb8_	What is the film format of the film Minority Report?
+www.freebase.com/m/047qxs	www.freebase.com/film/film/genre	www.freebase.com/m/04xvh5	what kind of film genre is timeline
+www.freebase.com/m/015fs3	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01l849	What is a color of western michigan university
+www.freebase.com/m/06wbm8q	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/0bjkpt	who executively produced rise of the guardians
+www.freebase.com/m/0n00	www.freebase.com/people/person/religion	www.freebase.com/m/0kpl	What type of religion does alan turing believe in
+www.freebase.com/m/025sc50	www.freebase.com/music/genre/artists	www.freebase.com/m/013v5j	Name an artist from the contemporary r&b genre
+www.freebase.com/m/01y8zd	www.freebase.com/education/educational_institution/campuses	www.freebase.com/m/01y8zd	What is a campus of mcmaster university?
+www.freebase.com/m/0dh8v4	www.freebase.com/film/film/language	www.freebase.com/m/01r2l	Which language is case closed: the phantom of baker street in?
+www.freebase.com/m/0m0jc	www.freebase.com/music/genre/artists	www.freebase.com/m/016ntp	what's the name of an electronica artist
+www.freebase.com/m/0b_6mr	www.freebase.com/time/event/locations	www.freebase.com/m/0c1d0	Where did 1985 ncaa mens division i basketball tournament take place?
+www.freebase.com/m/06by7	www.freebase.com/music/genre/artists	www.freebase.com/m/015_30	which musician plays rock music
+www.freebase.com/m/048htn	www.freebase.com/film/film/edited_by	www.freebase.com/m/027pdrh	who edited unfaithful (2002 film)?
+www.freebase.com/m/01cyd5	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01rs41	What kind of school is phillips exeter academy?
+www.freebase.com/m/0glt670	www.freebase.com/music/genre/artists	www.freebase.com/m/013w7j	what musician has hip hop music
+www.freebase.com/m/053x8hr	www.freebase.com/tv/tv_program/languages	www.freebase.com/m/02h40lc	what language is spoken by the cast in sherlock?
+www.freebase.com/m/081yw	www.freebase.com/location/location/contains	www.freebase.com/m/01h8rk	what university is located in washington (u.s. state)?
+www.freebase.com/m/0gtvpkw	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	What country produced to rome with love
+www.freebase.com/m/0j_cns	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	what gender is joel bender
+www.freebase.com/m/091xrc	www.freebase.com/film/film/music	www.freebase.com/m/0b6yp2	what music is in tmnt (film)?
+www.freebase.com/m/019c57	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/083jv	what is the official color for kenyon college?
+www.freebase.com/m/011_3s	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what country is lily tomlin from
+www.freebase.com/m/01gvsn	www.freebase.com/film/film/written_by	www.freebase.com/m/012t1	who wrote the way we were?
+www.freebase.com/m/02825cv	www.freebase.com/film/film/written_by	www.freebase.com/m/05ty4m	who wrote the film walk hard: the dewey cox story
+www.freebase.com/m/0qpn9	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hczc	what time zone is  mesa in
+www.freebase.com/m/01pq4w	www.freebase.com/education/university/fraternities_and_sororities	www.freebase.com/m/0325pb	what is an organization within greek life at vanderbilt university
+www.freebase.com/m/0yx_w	www.freebase.com/film/film/cinematography	www.freebase.com/m/08mhyd	who was the cinematographer for rain man
+www.freebase.com/m/0ds35l9	www.freebase.com/film/film/written_by	www.freebase.com/m/08vr94	who wrote bridesmaids
+www.freebase.com/m/0n85g	www.freebase.com/music/record_label/artist	www.freebase.com/m/09qr6	Who is signed to virgin records
+www.freebase.com/m/02k1pr	www.freebase.com/film/film/genre	www.freebase.com/m/03k9fj	what kind of film is the poseidon adventure
+www.freebase.com/m/03f5spx	www.freebase.com/people/person/profession	www.freebase.com/m/0dz3r	what is timbaland's profession
+www.freebase.com/m/030s5g	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	What nation is jerry wald from?
+www.freebase.com/m/02z44tp	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	what country was rich man, poor man filmed in
+www.freebase.com/m/06gst	www.freebase.com/music/record_label/artist	www.freebase.com/m/01n44c	Who is an artist  signed by rca records?
+www.freebase.com/m/02sqkh	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/0lsxr	what kind of television show is law & order: criminal intent?
+www.freebase.com/m/02bn75	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	is alex north from canada or the united states
+www.freebase.com/m/021_z5	www.freebase.com/music/genre/artists	www.freebase.com/m/015bwt	what artists are new jack swing artists
+www.freebase.com/m/0dbdy	www.freebase.com/location/administrative_division/country	www.freebase.com/m/07ssc	What country is lancashire in?
+www.freebase.com/m/015cz0	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/05jxkf	what kind of university is tel aviv university?
+www.freebase.com/m/05t54s	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	how would live free or die hard be categorized
+www.freebase.com/m/06mxs	www.freebase.com/location/location/time_zones	www.freebase.com/m/02llzg	what time zone is stockholm situated in
+www.freebase.com/m/0n2m7	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	Which timezone does franklin county lie in
+www.freebase.com/m/04psf	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/01kgg9	which actress passed away due to leukemia
+www.freebase.com/m/01pcq3	www.freebase.com/people/person/languages	www.freebase.com/m/064_8sq	what's a language that anna paquin can speak
+www.freebase.com/m/02qlg7s	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01p1v	where was humberto gatica born
+www.freebase.com/m/01hdht	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/06_kh	Where did douglas fairbanks die
+www.freebase.com/m/03m5y9p	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/07b_l	What was a feature film location for w. (film)?
+www.freebase.com/m/01vfqh	www.freebase.com/film/film/written_by	www.freebase.com/m/02kxbx3	who wrote barton fink
+www.freebase.com/m/03rt9	www.freebase.com/location/country/form_of_government	www.freebase.com/m/018wl5	What type of government is currently present in the republic of ireland
+www.freebase.com/m/02qhm3	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0k_p5	where did mary astor die
+www.freebase.com/m/025g__	www.freebase.com/music/genre/artists	www.freebase.com/m/01k3qj	Name a musician in the j-pop genre.
+www.freebase.com/m/03qd_13	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	what sex is leif juster
+www.freebase.com/m/018_q8	www.freebase.com/business/business_operation/industry	www.freebase.com/m/03qh03g	what type of company is viacom?
+www.freebase.com/m/0828jw	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/01hmnh	What genre is the tv program lost (tv series)
+www.freebase.com/m/01l69g	www.freebase.com/base/aareas/schema/administrative_area/capital	www.freebase.com/m/03czqs	What's the capital of odisha
+www.freebase.com/m/01b1mj	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/01rs41	what type of school is the gonzaga university
+www.freebase.com/m/01jq34	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/019sc	what is the school color of  university of maryland, college park
+www.freebase.com/m/03gvt	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01mr2g6	which musicians are known to play the hammond organ
+www.freebase.com/m/01my_c	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/01ppq	simon fuller was born on what Island
+www.freebase.com/m/0330r	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/05p553	What genre is the tv program frasier
+www.freebase.com/m/016lh0	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/052h3	who influenced ron paul
+www.freebase.com/m/01pcj4	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/083jv	What is a spirit color for the bard college
+www.freebase.com/m/050gkf	www.freebase.com/film/film/production_companies	www.freebase.com/m/04rtpt	who was one of the production companies listed in the beginning of cinderella man
+www.freebase.com/m/01sxly	www.freebase.com/film/film/genre	www.freebase.com/m/05p553	what types of movie is a fish called wanda
+www.freebase.com/m/07s9rl0	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/0m9p3	whats a movie title that is a netflix drama
+www.freebase.com/m/07bty	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	is thomas edison a male or female
+www.freebase.com/m/01znbj	www.freebase.com/music/record_label/artist	www.freebase.com/m/01d_h	Who's a musician signed to nettwerk
+www.freebase.com/m/0d1qmz	www.freebase.com/film/film/written_by	www.freebase.com/m/0ff2k	Who wrote you only live twice
+www.freebase.com/m/07ssc	www.freebase.com/location/country/second_level_divisions	www.freebase.com/m/01s3v	whats a second level division in  united kingdom
+www.freebase.com/m/03rz4	www.freebase.com/location/location/partially_contains	www.freebase.com/m/0f8l9c	What country borders the indian ocean
+www.freebase.com/m/0gwlfnb	www.freebase.com/film/film/genre	www.freebase.com/m/06n90	which category does g.i. joe: retaliation fall into
+www.freebase.com/m/04rrd	www.freebase.com/location/location/contains	www.freebase.com/m/0txhf	What is the name of a city located in maryland
+www.freebase.com/m/0432_5	www.freebase.com/film/film/genre	www.freebase.com/m/02kdv5l	What kind of film is infernal affairs ii
+www.freebase.com/m/03jsvl	www.freebase.com/music/genre/artists	www.freebase.com/m/016s_5	Who is an artist that would be considered a roots rock artist
+www.freebase.com/m/0285c	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0z2gq	Where was dave grohl born?
+www.freebase.com/m/02645b	www.freebase.com/people/person/profession	www.freebase.com/m/0q04f	what does joshua logan do for a living
+www.freebase.com/m/0x25q	www.freebase.com/film/film/production_companies	www.freebase.com/m/046b0s	the matrix reloaded was produced by this specific production company.
+www.freebase.com/m/0mvsg	www.freebase.com/location/location/time_zones	www.freebase.com/m/02hcv8	what timezone is lexington county in?
+www.freebase.com/m/03ywyk	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is the nationality of  cheryl hines
+www.freebase.com/m/018vs	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/0473q	Who plays bass guitar?
+www.freebase.com/m/033dbw	www.freebase.com/film/film/produced_by	www.freebase.com/m/0415svh	Who produced beloved (film)?
+www.freebase.com/m/01cssf	www.freebase.com/film/film/music	www.freebase.com/m/05y7hc	who is the composer for romeo + juliet
+www.freebase.com/m/053x8hr	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/0lsxr	what television genre is sherlock?
+www.freebase.com/m/0m_w6	www.freebase.com/base/aareas/schema/administrative_area/administrative_parent	www.freebase.com/m/03rt9	what republic is the administrative parent to county kerry
+www.freebase.com/m/02c6pq	www.freebase.com/people/person/nationality	www.freebase.com/m/0chghy	which country is simon baker from
+www.freebase.com/m/01l2b3	www.freebase.com/film/film/film_format	www.freebase.com/m/0cj16	what format was bend it like beckham filmed in
+www.freebase.com/m/0bpm4yw	www.freebase.com/film/film/music	www.freebase.com/m/0150t6	what German music composer produce the dark knight rises movie
+www.freebase.com/m/03ktjq	www.freebase.com/organization/organization_founder/organizations_founded	www.freebase.com/m/05h4t7	Which organization did joel silver found
+www.freebase.com/m/0ggx5q	www.freebase.com/music/genre/artists	www.freebase.com/m/043zg	which artist makes dance music?
+www.freebase.com/m/033g4d	www.freebase.com/film/film/language	www.freebase.com/m/0459q4	What language is lethal weapon 4 offered in?
+www.freebase.com/m/048z7l	www.freebase.com/people/ethnicity/languages_spoken	www.freebase.com/m/032f6	What language do most jewish american speak
+www.freebase.com/m/0rrhp	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0jxh9	what county is lakeland located in
+www.freebase.com/m/04ltlj	www.freebase.com/film/film/produced_by	www.freebase.com/m/02vyw	who produced the film frankenstein
+www.freebase.com/m/024pcx	www.freebase.com/location/country/official_language	www.freebase.com/m/02h40lc	what is the official language of kingdom of england
+www.freebase.com/m/0127s7	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	what religion is christina aguilera
+www.freebase.com/m/088q4	www.freebase.com/base/aareas/schema/administrative_area/administrative_parent	www.freebase.com/m/02j71	what is the administrative parent of zimbabwe?
+www.freebase.com/m/026ck	www.freebase.com/people/person/gender	www.freebase.com/m/05zppz	What is d. w. griffith's gender?
+www.freebase.com/m/0177s6	www.freebase.com/people/person/profession	www.freebase.com/m/02hrh1q	What is harold lloyd's profession?
+www.freebase.com/m/03ydlnj	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/02jx1	which locations were filmed for the boat that rocked?
+www.freebase.com/m/03xl77	www.freebase.com/people/person/place_of_birth	www.freebase.com/m/0r4h3	Where was  born
+www.freebase.com/m/013b6_	www.freebase.com/people/ethnicity/people	www.freebase.com/m/0lccn	what person is an ashkenazi jews?
+www.freebase.com/m/09sh8k	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/04jpl	Which location did fantastic four: rise of the silver surfer take place in
+www.freebase.com/m/0fd3y	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/01pfpt	what is the parent category of ambient music
+www.freebase.com/m/084302	www.freebase.com/film/film/genre	www.freebase.com/m/07s9rl0	what is the genre of the prestige
+www.freebase.com/m/0b_6rk	www.freebase.com/time/event/locations	www.freebase.com/m/0f2r6	where did the 1990 ncaa mens division i basketball tournament take place
+www.freebase.com/m/05cv8	www.freebase.com/people/person/nationality	www.freebase.com/m/09c7w0	what is neal stephenson
+www.freebase.com/m/050ks	www.freebase.com/location/location/contains	www.freebase.com/m/020ddc	which school is based in the state of maine
+www.freebase.com/m/03w1v2	www.freebase.com/people/person/religion	www.freebase.com/m/0kpl	which religion does michael pitt practice
+www.freebase.com/m/08phg9	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/0k__z	which university was star trek filmed at
+www.freebase.com/m/0yb_4	www.freebase.com/location/location/contains	www.freebase.com/m/01rtm4	what college is located in bronxville
+www.freebase.com/m/09ps01	www.freebase.com/film/film/produced_by	www.freebase.com/m/02vyw	who was the producer of the film the virgin suicides
+www.freebase.com/m/06zmg7m	www.freebase.com/people/person/nationality	www.freebase.com/m/03rk0	Where is manobala from?
+www.freebase.com/m/04b_46	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/05pcjw	what type of school is tisch school of the arts
+www.freebase.com/m/031hcx	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is the film harry potter and the order of the phoenix spoken in?
+www.freebase.com/m/07d2d	www.freebase.com/music/genre/artists	www.freebase.com/m/01pfr3	which trip hop group performed one of the james bond theme songs
+www.freebase.com/m/0crs0b8	www.freebase.com/film/film/country	www.freebase.com/m/0f8l9c	which country did the movie brighton rock come from
+www.freebase.com/m/0yyn5	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	which country released working girl
+www.freebase.com/m/03nfnx	www.freebase.com/film/film/production_companies	www.freebase.com/m/01gb54	which company produced shrek the third?
+www.freebase.com/m/065zlr	www.freebase.com/film/film/story_by	www.freebase.com/m/04l3_z	who wrote the story for nutty professor ii: the klumps
+www.freebase.com/m/09gdm7q	www.freebase.com/film/film/language	www.freebase.com/m/06b_j	what language do the characters speak in the whistleblower
+www.freebase.com/m/0cvkv5	www.freebase.com/film/film/genre	www.freebase.com/m/0lsxr	What kind of film is volver?
+www.freebase.com/m/02w7gg	www.freebase.com/people/ethnicity/people	www.freebase.com/m/08f3b1	Who is a politician of the english people?
+www.freebase.com/m/0_7w6	www.freebase.com/film/film/music	www.freebase.com/m/02fgpf	who composed the music for beauty and the beast
+www.freebase.com/m/0dnvn3	www.freebase.com/film/film/produced_by	www.freebase.com/m/01qg7c	Who produced the ladykillers?
+www.freebase.com/m/0qm9n	www.freebase.com/film/film/story_by	www.freebase.com/m/017xm3	Who created the story for the film coal miner's daughter?
+www.freebase.com/m/07wlf	www.freebase.com/education/educational_institution/colors	www.freebase.com/m/01jnf1	What is the color for university of utah
+www.freebase.com/m/016ywb	www.freebase.com/film/film/story_by	www.freebase.com/m/081k8	who wrote the story for henry v
+www.freebase.com/m/06qd3	www.freebase.com/base/aareas/schema/administrative_area/administrative_area_type	www.freebase.com/m/0hzc9wc	what is the administrative type of south korea
+www.freebase.com/m/06ch55	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/0197tq	who plays jazz piano?
+www.freebase.com/m/01cszh	www.freebase.com/music/record_label/artist	www.freebase.com/m/0178_w	which artists are contracted to arista records
+www.freebase.com/m/02r8hh_	www.freebase.com/film/film/genre	www.freebase.com/m/082gq	what genre is persepolis classified as
+www.freebase.com/m/07gghl	www.freebase.com/film/film/country	www.freebase.com/m/0chghy	Which country is the film showtime from
+www.freebase.com/m/01y9r2	www.freebase.com/film/film/production_companies	www.freebase.com/m/016tt2	which production company is the film road to perdition a part of?
+www.freebase.com/m/04t36	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/02zk08	what is a title of a netflix musical film?
+www.freebase.com/m/01fmys	www.freebase.com/film/film/written_by	www.freebase.com/m/0py5b	who wrote the movie home alone
+www.freebase.com/m/05bt6j	www.freebase.com/music/genre/artists	www.freebase.com/m/011z3g	what is a popular pop rock band
+www.freebase.com/m/0k2sk	www.freebase.com/film/film/genre	www.freebase.com/m/0556j8	what film genre is who framed roger rabbit?
+www.freebase.com/m/03t9sp	www.freebase.com/music/artist/origin	www.freebase.com/m/0fm2_	where did everything but the girl get their start at?
+www.freebase.com/m/0gk4g	www.freebase.com/people/cause_of_death/people	www.freebase.com/m/0h7dd	What actress died from myocardial infarction
+www.freebase.com/m/05rfst	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/03c9pqt	Who executively produced the film a history of violence (film)
+www.freebase.com/m/07rd7	www.freebase.com/film/director/film	www.freebase.com/m/01qxc7	what film is  tim burton known for directing
+www.freebase.com/m/05r5c	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/02rgz4	which musician plays the piano
+www.freebase.com/m/03s5lz	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/0glyyw	who was the executive producer of the film analyze this?
+www.freebase.com/m/07jnt	www.freebase.com/film/film/cinematography	www.freebase.com/m/04qvl7	who is the cinematographer of the shawshank redemption
+www.freebase.com/m/018vs	www.freebase.com/music/instrument/family	www.freebase.com/m/01vj9c	to which group does bass guitar belong
+www.freebase.com/m/084w8	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/07g2b	which author influenced william faulkner
+www.freebase.com/m/02_fm2	www.freebase.com/film/film/genre	www.freebase.com/m/0hcr	what type of film is treasure planet?
+www.freebase.com/m/0ggx5q	www.freebase.com/music/genre/artists	www.freebase.com/m/019x62	Name an artist in the genre of dance music
+www.freebase.com/m/06wcbk7	www.freebase.com/music/record_label/artist	www.freebase.com/m/01pgzn_	What is the name of an artist who was signed to universal motown records
+www.freebase.com/m/0342h	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/01w8n89	guitar was the instrument of choice for this music artist.
+www.freebase.com/m/0b2v79	www.freebase.com/film/film/featured_film_locations	www.freebase.com/m/01_d4	Where was "The Untouchables" filmed?
+www.freebase.com/m/01k1k4	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	what language is spoken in austin powers: the spy who shagged me
+www.freebase.com/m/02bqxb	www.freebase.com/film/film/genre	www.freebase.com/m/02l7c8	what kind of film is the fly
+www.freebase.com/m/07ssc	www.freebase.com/location/location/contains	www.freebase.com/m/01z8f0	what area is located in united kingdom
+www.freebase.com/m/07l4z	www.freebase.com/sports/sports_team/colors	www.freebase.com/m/03vtbc	what is toronto blue jays's color
+www.freebase.com/m/0330r	www.freebase.com/tv/tv_program/genre	www.freebase.com/m/011ys5	What kind of tv program is frasier?
+www.freebase.com/m/03y_f8	www.freebase.com/sports/sports_team/sport	www.freebase.com/m/02vx4	Which sport does the serbia national football team play
+www.freebase.com/m/0df2zx	www.freebase.com/film/film/genre	www.freebase.com/m/05p553	what kind of movie is jackass number two
+www.freebase.com/m/0ply0	www.freebase.com/location/hud_county_place/county	www.freebase.com/m/0jrtv	Which county is orlando, florida located in
+www.freebase.com/m/05148p4	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/016j2t	which musician know show to play the keyboard?
+www.freebase.com/m/03gfvsz	www.freebase.com/broadcast/content/artist	www.freebase.com/m/01svw8n	who is a singer did kymx
+www.freebase.com/m/026z9	www.freebase.com/music/genre/artists	www.freebase.com/m/01lqf49	Whats the name of a disco artist
+www.freebase.com/m/04xrx	www.freebase.com/influence/influence_node/influenced_by	www.freebase.com/m/012vd6	who influenced mariah carey
+www.freebase.com/m/0kpzy	www.freebase.com/base/aareas/schema/administrative_area/administrative_parent	www.freebase.com/m/01n7q	who is the administrative parent of alameda county, california
+www.freebase.com/m/02ln1	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/0ptj2	Where did edmund husserl die?
+www.freebase.com/m/02r79_h	www.freebase.com/film/film/production_companies	www.freebase.com/m/05mgj0	Which production company produced the imaginarium of dr. parnassus?
+www.freebase.com/m/01s7w3	www.freebase.com/film/film/written_by	www.freebase.com/m/056wb	Who is the writer behind twister
+www.freebase.com/m/07k8rt4	www.freebase.com/film/film/language	www.freebase.com/m/02h40lc	What language is the green hornet in?
+www.freebase.com/m/017wh	www.freebase.com/location/administrative_division/first_level_division_of	www.freebase.com/m/0345h	What is brandenburg a first level division of
+www.freebase.com/m/0dcsx	www.freebase.com/medicine/disease/notable_people_with_this_condition	www.freebase.com/m/0chsq	what famous person had alzheimer's disease
+www.freebase.com/m/063hp4	www.freebase.com/film/film/film_art_direction_by	www.freebase.com/m/072twv	who was the film art director on singin' in the rain
+www.freebase.com/m/06dn58	www.freebase.com/people/person/religion	www.freebase.com/m/0c8wxp	what religion does bobby cannavale practice
+www.freebase.com/m/0gj9tn5	www.freebase.com/film/film/country	www.freebase.com/m/09c7w0	Where in north america is ted filmed in?
+www.freebase.com/m/024lt6	www.freebase.com/film/film/executive_produced_by	www.freebase.com/m/01q_ph	Who was the executive producer for the movie rushmore?
+www.freebase.com/m/0dmn0x	www.freebase.com/film/film/genre	www.freebase.com/m/01jfsb	What is the genre of film that the lives of others falls within?
+www.freebase.com/m/0bmch_x	www.freebase.com/film/film/language	www.freebase.com/m/04306rv	what language was spoken in unknown
+www.freebase.com/m/016wzw	www.freebase.com/location/country/official_language	www.freebase.com/m/06nm1	What's the official language of peru
+www.freebase.com/m/022p06	www.freebase.com/people/deceased_person/place_of_death	www.freebase.com/m/030qb3t	where in california did samuel goldwyn die?
+www.freebase.com/m/02p72j	www.freebase.com/education/educational_institution/school_type	www.freebase.com/m/05jxkf	what is the school type of university of kiel
+www.freebase.com/m/011ypx	www.freebase.com/film/film/music	www.freebase.com/m/0kvnn	who made the music for good will hunting
+www.freebase.com/m/07s9rl0	www.freebase.com/media_common/netflix_genre/titles	www.freebase.com/m/064r97z	what is the name of a drama film on netflix
+www.freebase.com/m/0gg8l	www.freebase.com/music/genre/artists	www.freebase.com/m/01m1dzc	whats the name of a bluegrass musician
+www.freebase.com/m/08lpkq	www.freebase.com/music/genre/parent_genre	www.freebase.com/m/03_d0	what is the parent genre of vocal jazz?
+www.freebase.com/m/03gfvsz	www.freebase.com/broadcast/content/artist	www.freebase.com/m/06cc_1	who produced kymx
+www.freebase.com/m/0d8h4	www.freebase.com/location/administrative_division/country	www.freebase.com/m/0f8l9c	Which country is the region nord-pas-de-calais in?
+www.freebase.com/m/03h3x5	www.freebase.com/film/film/music	www.freebase.com/m/0146pg	who was the composer of looney tunes: back in action
+www.freebase.com/m/03cd0x	www.freebase.com/film/film/genre	www.freebase.com/m/04pbhw	what kind of movie is catwoman (film)
+www.freebase.com/m/03cmsqb	www.freebase.com/film/film/produced_by	www.freebase.com/m/0794g	which sandra produced all about steve
+www.freebase.com/m/03qjg	www.freebase.com/music/instrument/instrumentalists	www.freebase.com/m/0fpj4lx	What musician can play the harmonica?
